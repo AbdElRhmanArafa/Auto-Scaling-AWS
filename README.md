@@ -4,7 +4,7 @@ In this lab, you will create a new Amazon Machine Image (AMI) from an existing A
 
 ## AWS architecture
 
-![AWS architecture](https://drive.google.com/file/d/1PITusPg7J8LdktomP0X7bv0lMrsppOi3/view?usp=sharing)
+[AWS architecture](https://drive.google.com/file/d/1PITusPg7J8LdktomP0X7bv0lMrsppOi3/view?usp=sharing)
 
 ## Steps
 
